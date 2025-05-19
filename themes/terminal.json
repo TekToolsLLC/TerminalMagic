@@ -1,0 +1,42 @@
+{
+"Light": {
+  "FormBack": "#000000",
+  "FormFore": "#FFFFFF",
+  "ListBack": "#FFFFFF",
+  "ListFore": "#FFFFFF",
+  "SearchBack": "#FFFFFF",
+  "SearchFore": "#000000",
+  "ButtonBack": "#000000",
+  "RowFore": "#000000",
+  "RowBack1": "#C0C0C0",
+  "RowBack2": "#FFFFFF",
+  "TextColor": "#000000",
+  "HeaderBack": "#FFFFFF",
+  "HeaderFore": "#000000",
+  "SelectedBack": "#FFFFFF",
+  "SelectedFore": "#FFFFFF",
+  "Border": "#000000",
+  "FontName": "Consolas",
+  "FontSize": 11
+},
+  "Dark": {
+    "FormBack": "#FFFFFF",
+    "FormFore": "#000000",
+    "ListBack": "#001100",
+    "ListFore": "#00FF00",
+    "SearchBack": "#002200",
+    "SearchFore": "#00FF00",
+    "ButtonBack": "#003300",
+    "RowFore": "#00FF00",
+    "RowBack1": "#001100",
+    "RowBack2": "#002200",
+    "TextColor": "#00FF00",
+    "HeaderBack": "#003300",
+    "HeaderFore": "#00FF00",
+    "SelectedBack": "#00AA00",
+    "SelectedFore": "#000000",
+    "Border": "#000000",
+    "FontName": "Consolas",
+    "FontSize": 11
+  }
+}

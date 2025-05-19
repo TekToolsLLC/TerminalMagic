@@ -1,0 +1,5 @@
+categories.csv
+preferences.json
+
+# Ignore hosts folder and files
+hosts/

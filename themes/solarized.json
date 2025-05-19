@@ -1,0 +1,43 @@
+{
+    "Light": {
+      "FormBack": "#FDF6E3",
+      "FormFore": "#657B83",
+      "ListBack": "#FFFFFF",
+      "ListFore": "#657B83",
+      "SearchBack": "#EEE8D5",
+      "SearchFore": "#586E75",
+      "ButtonBack": "#D3CFC5",
+      "RowFore": "#657B83",
+      "RowBack1": "#FDF6E3",
+      "RowBack2": "#EEE8D5",
+      "TextColor": "#586E75",
+      "HeaderBack": "#EEE8D5",
+      "HeaderFore": "#586E75",
+      "SelectedBack": "#93A1A1",
+      "SelectedFore": "#002B36",
+      "FontName": "Segoe UI",
+      "Border": "#FFFFFF",
+      "FontSize": 10
+    },
+    "Dark": {
+      "FormBack": "#002B36",
+      "FormFore": "#839496",
+      "ListBack": "#073642",
+      "ListFore": "#839496",
+      "SearchBack": "#002B36",
+      "SearchFore": "#93A1A1",
+      "ButtonBack": "#003340",
+      "RowFore": "#93A1A1",
+      "RowBack1": "#073642",
+      "RowBack2": "#002B36",
+      "TextColor": "#93A1A1",
+      "HeaderBack": "#004050",
+      "HeaderFore": "#93A1A1",
+      "SelectedBack": "#586E75",
+      "SelectedFore": "#FDF6E3",
+      "Border": "#FFFFFF",
+      "FontName": "Consolas",
+      "FontSize": 10
+    }
+  }
+  

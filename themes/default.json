@@ -1,0 +1,42 @@
+{
+  "Light": {
+    "FormBack": "#FFFFFF",
+    "FormFore": "#000000",
+    "ListBack": "#FFFFFF",
+    "ListFore": "#000000",
+    "SearchBack": "#FFFFFF",
+    "SearchFore": "#000000",
+    "ButtonBack": "#E0E0E0",
+    "RowFore": "#000000",
+    "RowBack1": "#FFFFFF",
+    "RowBack2": "#F5F5F5",
+    "TextColor": "#000000",
+    "HeaderBack": "#FFFFFF",
+    "HeaderFore": "#000000",
+    "SelectedBack": "#3399FF",
+    "SelectedFore": "#FFFFFF",
+    "Border": "#FFFFFF",
+    "FontName": "Segoe UI",
+    "FontSize": 10
+  },
+  "Dark": {
+    "FormBack": "#1E1E1E",
+    "FormFore": "#CCCCCC",
+    "ListBack": "#2D2D2D",
+    "ListFore": "#CCCCCC",
+    "SearchBack": "#333333",
+    "SearchFore": "#FFFFFF",
+    "ButtonBack": "#444444",
+    "RowFore": "#FFFFFF",
+    "RowBack1": "#3A3A3A",
+    "RowBack2": "#2A2A2A",
+    "TextColor": "#FFFFFF",
+    "HeaderBack": "#FFFFFF",
+    "HeaderFore": "#000000",
+    "SelectedBack": "#3399FF",
+    "SelectedFore": "#FFFFFF",
+    "Border": "#000000",
+    "FontName": "Segoe UI",
+    "FontSize": 10
+  }
+}
